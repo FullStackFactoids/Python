@@ -1,3 +1,4 @@
+![FullStack Factoids Logo](https://github.com/FullStackFactoids/.github/blob/main/profile/fullstackfactoid-github-narrow.png)
 
 ---
 
