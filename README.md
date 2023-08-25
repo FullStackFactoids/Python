@@ -43,7 +43,7 @@ sudo apt-get install python3
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/FullStackFactoids/python-trivia-code-samples.git
+git clone https://github.com/FullStackFactoids/Python.git
 ```
 
 2. Navigate to the repository's directory:
