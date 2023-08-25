@@ -1,4 +1,3 @@
-Certainly! Here's a README template for your Python trivia code samples repository:
 
 ---
 
