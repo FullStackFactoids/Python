@@ -65,5 +65,3 @@ We welcome contributions! If you find any issues or have suggestions, please ope
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-Remember to adjust the repository URL in the "git clone" command to match your actual repository URL. This README provides a basic structure, and you can further customize it to better fit your project's needs.
