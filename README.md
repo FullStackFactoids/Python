@@ -56,6 +56,10 @@ python3 filename.py
 ```
 Replace `filename.py` with the name of the trivia question file you want to execute.
 
+4. Run all trivia code in level directory (Output will not be in file order):
+```bash
+for file in *.py; do python3 "$file"; done
+```
 ## Contributing
 
 We welcome contributions! If you find any issues or have suggestions, please open an issue. If you'd like to contribute directly, feel free to create a pull request.
